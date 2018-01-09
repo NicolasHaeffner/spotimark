@@ -1,4 +1,4 @@
 
-cache
-__init.py__
+cache/
+__init__.py
 .cache*

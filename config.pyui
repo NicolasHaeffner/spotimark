@@ -1,0 +1,98 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 48}, {538, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "placeholder" : "client id",
+          "font_size" : 17,
+          "frame" : "{{175, 224}, {200, 32}}",
+          "spellchecking_type" : "no",
+          "class" : "TextField",
+          "uuid" : "647FCA91-46FA-486A-921F-413AB68890E4",
+          "alignment" : "left",
+          "autocorrection_type" : "no",
+          "name" : "client_id",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 127}, {538, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "placeholder" : " client secret",
+          "font_size" : 17,
+          "frame" : "{{175, 224}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "D58573D3-5057-4D7B-9C06-71515E9CCABB",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "client_secret",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 210}, {538, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "placeholder" : "username",
+          "font_size" : 17,
+          "frame" : "{{175, 224}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "42982FD4-EC07-45EB-8FBB-CBB0FFBB627B",
+          "alignment" : "left",
+          "text" : "",
+          "autocorrection_type" : "default",
+          "name" : "username",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{92, 301}, {351, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "ok_tapped",
+          "border_width" : 1,
+          "flex" : "W",
+          "frame" : "{{235, 224}, {80, 32}}",
+          "title" : "OK",
+          "uuid" : "D3F56366-62D7-4F86-A4A1-A81BBD491469",
+          "class" : "Button",
+          "corner_radius" : 0,
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {550, 360}}",
+    "class" : "View",
+    "attributes" : {
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "name" : "spotimark config",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
